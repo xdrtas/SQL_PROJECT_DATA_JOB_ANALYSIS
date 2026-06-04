@@ -1,6 +1,8 @@
 # SQL_PROJECT_DATA_JOB_ANALYSIS
 SQL_PROJECT_DATA_JOB_ANALYSIS {Bootcamp from}: https://www.youtube.com/watch?v=MOzEvNYvbik
 
+By @lukebarousse -> Git: https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis/blob/main/README.md?plain=1
+
 # Introduction
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
